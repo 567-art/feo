@@ -1,4 +1,7 @@
 import { Html, Head, Main, NextScript } from "next/document";
+import { Spectral } from "next/font/google";
+
+
 
 export default function Document() {
   return (
